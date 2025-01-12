@@ -12,7 +12,7 @@ const faqData = [
 	{
 		question: 'Kişisel verilerim güvende mi?',
 		answer:
-			'Kesinlikle! Bega Finance App, verilerinizi en üst düzeyde güvenlik protokolleriyle korur. Bilgileriniz üçüncü taraflarla paylaşılmaz.'
+			'Kesinlikle! Bega Finance App, verilerinizi üst düzeyde güvenlik protokolleriyle korur. Bilgileriniz üçüncü taraflarla paylaşılmaz.'
 	},
 	{
 		question: 'Uygulama hangi para birimlerini destekliyor?',
